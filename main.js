@@ -39,6 +39,7 @@ const translations = {
     "skills.scss":       "Variables, mixins, nesting, architecture BEM.",
     "skills.react":      "Components, Hooks, state management, props.",
     "skills.git":        "Versioning, branches, GitHub, collaboration.",
+    "skills.wordpress":  "Création de sites avec thèmes, gestion de contenu, plugins, personnalisation et optimisation de base.",
     "skills.more":       "+ Outils & méthodes",
 
     "projects.tag":      "— Réalisations",
@@ -50,6 +51,8 @@ const translations = {
     "projects.p2.desc":  "Presentation d'un logiciel de gestion de fichier et de sauvegarde en ligne sur le cloud. Avec un style de fond sombre.",
     "projects.p3.title": "Space tourism multi-page website",
     "projects.p3.desc":  "Un site web multi-page qui presente un projet fictive de voyage spatial. Les elements sont interactives et responsives.",
+    "projects.p4.title": "DigitalBank – Banque digitale moderne",
+    "projects.p4.desc":  "Landing page d’une banque digitale moderne présentant ses services, fonctionnalités et articles financiers. Interface responsive avec navigation, sections marketing et contenu informatif.",
 
     "services.tag":      "— Ce que je propose",
     "services.title":    "Services <em>Freelance</em>",
@@ -111,6 +114,7 @@ const translations = {
     "skills.scss":       "Variables, mixins, nesting, BEM architecture.",
     "skills.react":      "Components, Hooks, state management, props.",
     "skills.git":        "Versioning, branches, GitHub, collaboration.",
+    "skills.wordpress":  "Website creation using themes, content management, plugins, customization, and basic optimization.",
     "skills.more":       "+ Tools & methods",
 
     "projects.tag":      "— Work",
@@ -122,6 +126,8 @@ const translations = {
     "projects.p2.desc":  "Presentation of cloud-based file management and online backup software. Featuring a dark background.",
     "projects.p3.title": "Space tourism multi-page website",
     "projects.p3.desc":  "A multi-page website showcasing a fictional space travel project. The elements are interactive and responsive.",
+    "projects.p4.title": "DigitalBank – A Modern Digital Bank",
+    "projects.p4.desc":  "Landing page for a modern digital bank showcasing its services, features, and financial articles. Responsive interface with navigation, marketing sections, and informative content.",
 
     "services.tag":      "— What I offer",
     "services.title":    "<em>Freelance</em> Services",
